@@ -14,4 +14,3 @@ product management methodologies for effective process and procedures implementa
 - Email: [babagana.tech@gmail.com]
 - LinkedIn: [l.linklyhq.com/l/IDzj]
 - GitHub: [https://github.com/bzannah]
-- 
