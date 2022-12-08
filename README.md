@@ -1,4 +1,4 @@
-# 🤓 Hey 👋, it's Baba here, Crafting elegant solutions
+# 🤓 Hey 👋, it's Baba here, crafting elegant tech solutions
 
 I am Solution-Oriented Engineering Leader combining deep technical, leadership, and communication knowledge with experience in
 programming, software design, analysis, and project management gained via ongoing software projects in critical systems, web
