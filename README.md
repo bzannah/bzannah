@@ -1,88 +1,19 @@
-<style>
-  body {
-    background-color: #282a36;
-    color: #f8f8f2;
-    font-family: "Roboto Mono", monospace;
-    text-align: center;
-  }
+# 🤓 Welcome, it's Babagana here,
 
-  h1, h2, h3 {
-    color: #ff79c6;
-  }
-
-  a {
-    color: #50fa7b;
-    transition: all 0.2s ease-in-out;
-  }
-
-  a:hover {
-    text-decoration: none;
-    color: #bd93f9;
-  }
-
-  #marquee {
-    margin: 10px 0;
-    font-size: 24px;
-    animation: marquee 5s linear infinite;
-  }
-
-  @keyframes marquee {
-    0% {
-      transform: translateX(0);
-    }
-    100% {
-      transform: translateX(-100%);
-    }
-  }
-
-  #ascii {
-    margin-top: 20px;
-  }
-
-  #ascii pre {
-    white-space: pre-wrap;
-    font-family: "Roboto Mono", monospace;
-    font-size: 12px;
-  }
-</style>
-
-<link rel="icon" type="image/png" href="favicon.png">
-
-<div id="marquee">Geek Power! 💪</div>
-
-# 🤓 Welcome to my portfolio website!
-
-My name is [Your Name] and I am a software engineer with over 5 years of experience in the industry. I specialize in building web applications using a variety of technologies, including [list your skills].
-
-## Professional Experience
-
-[List your professional experience, including job titles, companies, and a brief description of your role and responsibilities]
-
-## Projects
-
-### [Project 1]
-
-[Brief description of the project, including the technologies used and your role on the project]
-
-### [Project 2]
-
-[Brief description of the project, including the technologies used and your role on the project]
-
-## Education
-
-- [Degree] in [Field of Study] from [University]
-
-## Skills
-
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
+I am Solution-Oriented Engineering Leader combining deep technical, leadership, and communication knowledge with experience in
+programming, software design, analysis, and project management gained via ongoing software projects in critical systems, web
+development, e-commerce, advanced databases, and scripting languages. Cemented skills needed to define software architectures
+while facilitating rapid application development through awareness of the full project management and software development
+life cycle. Strong team player with impressive communication skills and cultural awareness gained via achievements in Nigeria,
+Egypt, UK, Canada, and Germany. Energetic, dynamic, relishes challenges, and is quick and willing to assimilate and apply
+new processes and procedures. Receptive to new and emerging developments in software development, web technologies, and
+product management methodologies for effective process and procedures implementation.
 
 ## Contact
 
-- Email: [your email address]
-- LinkedIn: [your LinkedIn profile URL]
-- GitHub: [your GitHub profile URL]
+- Email: [babagana.tech@gmail.com]
+- LinkedIn: [l.linklyhq.com/l/IDzj]
+- GitHub: [https://github.com/bzannah]
 
 <div id="ascii">
   <pre>
