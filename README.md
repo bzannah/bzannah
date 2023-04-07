@@ -1,6 +1,6 @@
 # 🤓 Hey 👋, it's Baba here, crafting elegant tech solutions
 
-I am Solution-Oriented Engineering Leader combining deep technical, leadership, and communication knowledge with experience in
+Solution-Oriented Engineering Leader combining deep technical, leadership, and communication knowledge with experience in
 programming, software design, analysis, and project management gained via ongoing software projects in critical systems, web
 development, e-commerce, advanced databases, and scripting languages. Cemented skills needed to define software architectures
 while facilitating rapid application development through awareness of the full project management and software development
