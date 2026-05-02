@@ -1,14 +1,7 @@
-# 🤓 Hey 👋, it's Baba here, crafting elegant tech solutions
+## 🤓 Hey 👋, it's Baba. I craft elegant tech solutions.
 
-Solution-Oriented Engineering Leader combining deep technical, leadership, and communication knowledge with experience in
-programming, software design, analysis, and project management gained via ongoing software projects in critical systems, web
-development, e-commerce, advanced databases, and scripting languages. Cemented skills needed to define software architectures
-while facilitating rapid application development through awareness of the full project management and software development
-life cycle. Strong team player with impressive communication skills and cultural awareness gained via achievements in Nigeria,
-Egypt, UK, Canada, and Germany. Energetic, dynamic, relishes challenges, and is quick and willing to assimilate and apply
-new processes and procedures. Receptive to new and emerging developments in software development, web technologies, and
-product management methodologies for effective process and procedures implementation.
+I build and lead high-performance engineering teams minus the drama and ship products that customers actually love. I believe in making software development intelligent, self-sufficient and product delivery boringly predictable. Ultimately, I’m driven by innovation, and yes, I still love getting my hands dirty in the code.
 
 ## Contact
 
-- Email: [baba@spytro.com]
+- Email: [heyzannah@gmail.com]
